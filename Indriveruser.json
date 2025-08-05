@@ -47,5 +47,11 @@
         "key": "flatur",
         "expirydate": "08-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "14f56f6c9aade0b0",
+        "key": "flahyu",
+        "expirydate": "08-08-2025",
+        "Allowoffline": false
     }
 ]
