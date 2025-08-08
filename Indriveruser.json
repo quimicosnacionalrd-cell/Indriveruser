@@ -137,5 +137,11 @@
         "key": "key",
         "expirydate": "09-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ID",
+        "key": "key",
+        "expirydate": "09-08-2025",
+        "Allowoffline": false
     }
 ]
