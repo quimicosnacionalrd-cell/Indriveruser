@@ -344,6 +344,24 @@
         "Allowoffline": false
     },
     {
+        "device_id": "f39dcb606f6665b6",
+        "key": "45454576",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ID",
+        "key": "key",
+        "expirydate": "09-08-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ID",
+        "key": "key",
+        "expirydate": "09-08-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "ID",
         "key": "key",
         "expirydate": "09-08-2025",
