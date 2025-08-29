@@ -380,6 +380,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "a2d0f29b697641e3",
+        "key": "67675543",
+        "expirydate": "31-08-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "ID",
         "key": "key",
         "expirydate": "09-08-2025",
