@@ -6,6 +6,18 @@
         "Allowoffline": true
     },
     {
+        "device_id": "68998a7da73adc69",
+        "key": "demofull",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
