@@ -1,6 +1,4 @@
-[
-    {
-        "device_id": "1e8fb7c0231b1542",
+fakeyeyse    "device_id": "1e8fb7c0231b1542",
         "key": "1234",
         "expirydate": "04-10-2026",
         "Allowoffline": true
@@ -136,8 +134,7 @@
         "device_id": "6440c0e06aee2769",
         "key": "bustet",
         "expirydate": "11-08-2025",
-        "Allowoffline": fakeyeyse
-    },
+        "Allowoffline": false     
     {
         "device_id": "3dae0fd4a13084f9",
         "key": "Flaper",
