@@ -557,7 +557,7 @@
         "device_id": "b3e517e07831a6f3",
         "key": "556678",
         "expirydate": "17-10-2025",
-        "Allowoffline": ID
+        "Allowoffline": false
     },
     {
         "device_id": "ID",
